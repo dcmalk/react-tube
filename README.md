@@ -15,4 +15,4 @@ Create a `.env` file and add the required API credentials. See [`.env.example`](
 
 ## Acknowledgements
 
-I would like to thank Stephen Grider for creating his excellent Udemey course, [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), from which the code originated. This repository contains my updated version of that code.
+I would like to thank Stephen Grider for creating his excellent Udemy course, [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), from which the code originated. This repository contains my updated version of that code.
